@@ -1,4 +1,4 @@
-# BagelsGame
+# Bagels Number Guessing Game
 This is a simple number guessing game where a three digit secret number is randomly generated and the player has 10 attempts to guess the number. Everytime the user sumbmits a guess they will be given a clue.
 
 ### Clues
